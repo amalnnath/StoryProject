@@ -1,0 +1,65 @@
+.container2{
+	margin-left: auto;
+	margin-right: auto;
+	width:300px;
+	text-align: center;
+	margin-top:150px;
+}
+
+.navbar{
+		text-align: center;
+}
+
+form{
+		padding: 50px;
+}
+
+body { 
+    padding-top: 65px;
+
+}
+
+.backgroundimage{
+	/*background-image: url('http://www.htmlcsscolor.com/preview/gallery/006DCC.png');*/
+	background-color:#006dcc;
+	background-repeat: repeat;
+	height:100%;
+	
+	 -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+	
+	
+}
+
+a{
+	background-color:red;
+}
+
+
+
+#login-form {
+	background-color: white;
+	padding-top:20px;
+	border-radius: 15px;
+}
+
+#greetinglogo{
+	color:white;		
+	text-align: center;
+	text-decoration: bold;
+}
+
+#errorprompt{
+	margin-left: auto;
+	margin-right: auto;
+	width:280px;
+	height:40px;
+	background-color:#DF3030;
+	border-radius: 15px;
+	color:white;
+	padding:10px;
+	font-weight: bold;
+}
+
